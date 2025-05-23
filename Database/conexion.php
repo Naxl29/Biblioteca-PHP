@@ -1,5 +1,4 @@
 <?php
-
 class Database{
     private string $host = "localhost";
     private string $database = "biblioteca";
